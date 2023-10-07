@@ -1,0 +1,32 @@
+mkdir dir-name 	: make new directory. like create new folder.
+cd dir-name 	: change directory
+cd ..		: go to parent directory.
+cd ~		: goto home directory of user
+ls -l		: list all files in current directory
+gedit file-name &: open file in gedit text editor
+vim file-name	: open file in vi editor
+exit		: exit shell
+clear		: clear screen
+
+gcc p01.c -o p01 : compile p01.c and create p01 as output file
+./p01		: execute p01
+
+short-cuts
+CTRL+L		: clear screen
+CTRL+D		: end of file. in terminal shortcut top exit
+CTRL+C		: terminate running program.
+
+assignement:
+exit terminal
+	exit
+open terminal
+	
+change directory to day01
+	cd workspace/cprog/day01
+
+write a program to display hello ICIT
+gedit hello.c &
+
+compile and execute the same.
+gcc hello.c -o hello
+./hello
