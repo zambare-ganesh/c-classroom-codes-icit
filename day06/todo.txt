@@ -1,0 +1,27 @@
+alongwith current topic reading/coding daily 
+following activities are important.
+1. Write one program from assignment 2 and assignment 3.
+2. one program involving bit-wise operators.
+3. one program using recursion.
+4. at least one page from lady or tiger.
+5. refer R.S. Agarwal or M Tyra
+6. some reading from IELTS book
+7. one program from C puzzle book
+---------------------------------------------------------------
+
+if u get time then only read following books. 
+Otherwise ur daily schedule is enough.
+in future (after completion of course) u may refer these books.
+C books
+1. Schaum series
+2. K & R
+3. C A complete refrence manual
+4. C puzzle book: Alen Feuer
+5. C companion: Alun Holub
+
+C++ books
+1. Thinking in C
+2. Lipman
+3. Stoustrup
+4. Keshav Dattari
+---------------------------------------------------------------
