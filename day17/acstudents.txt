@@ -1,0 +1,6 @@
+71 Mainak M   90 85 79 96
+72 Arpita F   92 80 65 86
+73 Radhika F   85 75 97 90
+74 Ankush M   93 82 71 83
+75 Raghav M   90 85 79 96
+76 Abhijeet M   90 85 79 96
